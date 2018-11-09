@@ -4,6 +4,7 @@
 * [Hello World, From GitHub Guides](https://guides.github.com/activities/hello-world/)
 * [General GitHub Guides](https://guides.github.com/)
 * [GitHub Pages](https://pages.github.com/) -- Websites for you and your projects
+* [Repositories to Contribute To](https://github.com/showcases/great-for-new-contributors)
 
 
 ## Git basics
